@@ -1,7 +1,6 @@
 # -Java--Ejercicio-Trainee-Onready
 Este el proyecto echo en java  con IDE Eclipse.
--Java--Ejercicio-Trainee-Onready
-Este el proyecto echo en java con IDE Eclipse.
+
 
 Ejercicio Trainee Onready Imaginemos una concesionaria de autos y motos. Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo siguiente por consola:
 
